@@ -1,0 +1,12 @@
+node_modules/
+public/uploads/
+client/package-lock.json
+.env
+/.env
+/node_modules
+/config.js
+client/build
+
+/.idea/
+/.idea
+.idea/
