@@ -1,11 +1,26 @@
 # sazim
 
+Requirement
+NodeJs,Postgress DB,Prisma
+
+To check Postgress Version by typing following command
+
+`psql --version`
+
+you have to install prisma globally
+
+to install prisma globally, enter the following command
+
+`npm i -g prisma`
+
 Download the project.
 navigate the folder and type 
+
 `npm start` 
 it will start server 
 
 then type and enter following command
+
 `prisma migrate dev --demo`
 
 this command will migrate prisma model
